@@ -1,0 +1,6 @@
+PRODUCT,BEST_MODEL,ROC_AUC
+Premium Health,Random Forest,0.8776772178598534
+Daily Fitness,Random Forest,0.8532770432185834
+Healthy Meals,Random Forest,0.8473975679974537
+Wellness Tracker,Random Forest,0.8364756599367885
+Mindful Living,Random Forest,0.8317209720839234
